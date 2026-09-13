@@ -2,7 +2,7 @@
   "name": "wrangler-config-companion",
   "displayName": "Wrangler Config Companion",
   "description": "Validates wrangler.toml -- required fields (name/main/compatibility_date), and missing binding/id in kv_namespaces/r2_buckets/d1_databases entries. No data leaves your editor.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "GapHunterLabs",
   "icon": "images/icon.png",
   "license": "Apache-2.0",
